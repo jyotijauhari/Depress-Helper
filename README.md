@@ -26,6 +26,14 @@ The chatbot is built with Google cloud, Dialogflow and twilio is used botcopy fo
 
 Helping the depressed people by providing resources and a chat bot friend.
 
+## Screenshots :
+
+<p align="center"><img width=30% src="https://github.com/JyotiJauhari/You-are-Fighter/blob/master/Screenshot/1.JPG"></p> 
+ <p align="center"><img width=30% src="https://github.com/JyotiJauhari/You-are-Fighter/blob/master/Screenshot/2.JPG"></p> 
+<p align="center"><img width=30% src="https://github.com/JyotiJauhari/You-are-Fighter/blob/master/Screenshot/3.JPG"></p> 
+<p align="center"><img width=30% src="https://github.com/JyotiJauhari/You-are-Fighter/blob/master/Screenshot/4.JPG"></p> 
+<p align="center"><img width=30% src="https://github.com/JyotiJauhari/You-are-Fighter/blob/master/Screenshot/5.JPG"></p> 
+
 ## Accomplishments that I'm proud of :
 
 I learned how to use Google cloud , Dialogflow , twitter bot ,  chatbot and creating website and implementing everything I have planned in less than 36 hours .
