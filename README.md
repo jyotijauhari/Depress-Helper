@@ -27,11 +27,11 @@ The chatbot is built with Google cloud, Dialogflow and twilio is used botcopy fo
 Helping the depressed people by providing resources and a chat bot friend.
 
 ## Screenshots :
-<img width=30% src="https://github.com/JyotiJauhari/You-are-Fighter/blob/master/Screenshot/1.JPG">
-<img width=30% src="https://github.com/JyotiJauhari/You-are-Fighter/blob/master/Screenshot/2.JPG"> 
-<img width=30% src="https://github.com/JyotiJauhari/You-are-Fighter/blob/master/Screenshot/3.JPG"> 
-<img width=30% src="https://github.com/JyotiJauhari/You-are-Fighter/blob/master/Screenshot/4.JPG"> 
-<img width=30% src="https://github.com/JyotiJauhari/You-are-Fighter/blob/master/Screenshot/5.JPG"> 
+<img src="https://github.com/JyotiJauhari/You-are-Fighter/blob/master/Screenshot/1.JPG">
+<img src="https://github.com/JyotiJauhari/You-are-Fighter/blob/master/Screenshot/2.JPG"> 
+<img src="https://github.com/JyotiJauhari/You-are-Fighter/blob/master/Screenshot/3.JPG"> 
+<img src="https://github.com/JyotiJauhari/You-are-Fighter/blob/master/Screenshot/4.JPG"> 
+<img src="https://github.com/JyotiJauhari/You-are-Fighter/blob/master/Screenshot/5.JPG"> 
 
 ## Accomplishments that I'm proud of :
 
