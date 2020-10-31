@@ -104,7 +104,7 @@ html {
 
 .top-header {
 	margin: 0;
-	padding: 0;
+    padding: 0;
 }
 
 .main-nav {
@@ -423,15 +423,16 @@ button:hover {
 }
 
 .service-item:hover {
+    color: #2279BD;
     background-color: rgba(250, 250, 250, 1);
 }
 
 .service-item:hover h4 {
-    color: #1e1e1e;
+    color: #2279BD;
 }
 
 .service-item:hover p {
-    color: #4a4a4a;
+    color: #2279BD;
 }
 
 .service-item .service-icon {
@@ -450,7 +451,7 @@ button:hover {
 	transition: all 0.5s;
 }
 .service-item:hover .fa {
-	color: #000;
+	color: #2279BD;
 }
 
 
